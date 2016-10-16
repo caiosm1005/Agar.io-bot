@@ -1,5 +1,7 @@
 # Agar.io-pop-bot
 
+*Notice: This project has ceased development since the original project ([Agar.io-bot](https://github.com/Apostolique/Agar.io-bot)) has been discontinued*
+
 ![Bot in action 1](https://github.com/caiosm1005/Agar.io-pop-bot/raw/master/preview-images/bot-in-action-1.gif)
 
 A troll Agar.io bot that likes popping foes.
